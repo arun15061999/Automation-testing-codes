@@ -1,0 +1,13 @@
+RUN	examples.karatesimulation.karatesimulation	karatesimulation	1659705676124	 	3.0.2
+USER	Get the user data from server	1	START	1659705676279	1659705676279
+USER	Get the user data from server	1	END	1659705676279	1659705676306
+USER	Get the user data from server	2	START	1659705679293	1659705679293
+USER	Get the user data from server	2	END	1659705679293	1659705679296
+USER	Get the user data from server	3	START	1659705682276	1659705682276
+USER	Get the user data from server	3	END	1659705682276	1659705682277
+USER	Get the user data from server	4	START	1659705686290	1659705686290
+USER	Get the user data from server	4	END	1659705686290	1659705686292
+USER	Get the user data from server	5	START	1659705689276	1659705689276
+USER	Get the user data from server	5	END	1659705689276	1659705689278
+USER	Get the user data from server	6	START	1659705692271	1659705692271
+USER	Get the user data from server	6	END	1659705692271	1659705692272
